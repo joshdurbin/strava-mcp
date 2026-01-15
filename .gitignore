@@ -1,0 +1,28 @@
+# Binary
+strava-mcp
+
+# Database
+*.db
+*.db-wal
+*.db-shm
+
+# Logs
+*.log
+
+# Config (contains secrets)
+config.yaml
+config.json
+strava-config.json
+
+# Test coverage
+coverage.out
+
+# IDE
+.idea/
+.vscode/
+.claude/
+.cursor/
+
+# OS
+.DS_Store
+*.swp
